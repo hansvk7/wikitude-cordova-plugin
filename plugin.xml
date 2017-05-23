@@ -24,7 +24,7 @@
 
     <!-- copy WikitudePlugin wrapper file into www-folder -->
     <js-module src="www/WikitudePlugin.js" name="WikitudePlugin">
-        <clobbers target="wikitudePlugin" />
+        <clobbers target="WikitudePlugin" />
     </js-module>
 
     <!-- android -->
